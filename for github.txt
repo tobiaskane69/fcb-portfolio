@@ -1,0 +1,3 @@
+git config --global user.name "tobiaskane69"
+
+git config --global user.name "Full username used in Github"
