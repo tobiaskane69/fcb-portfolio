@@ -1,3 +1,25 @@
+(git config --global user.name "Full username used in Github")
 git config --global user.name "tobiaskane69"
 
-git config --global user.name "Full username used in Github"
+(git config --global user.email "email used in Github")
+git config --global user.email "tobiashernandez47@gmail.com"
+
+git init 
+git add -A
+git commit -m "Added fcb portfolio"
+
+ls -a
+
+(git remote add github https)
+git remote add github https://github.com/tobiaskane69/fcb-portfolio.git
+
+token: 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
+
+git remote -v
+
+git push github
+
+to update:
+git add -A
+git commit -m "Added fcb portfolio"
+git push github
